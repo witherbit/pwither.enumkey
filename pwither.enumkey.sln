@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pwither.enumkey", "pwither.stringenum\pwither.enumkey.csproj", "{72FF2BD4-2532-405B-AC3A-FD95353CE2CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{EBF300DF-5C3C-4C25-BB9D-AFA9BC2C42D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72FF2BD4-2532-405B-AC3A-FD95353CE2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72FF2BD4-2532-405B-AC3A-FD95353CE2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72FF2BD4-2532-405B-AC3A-FD95353CE2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72FF2BD4-2532-405B-AC3A-FD95353CE2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF300DF-5C3C-4C25-BB9D-AFA9BC2C42D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF300DF-5C3C-4C25-BB9D-AFA9BC2C42D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF300DF-5C3C-4C25-BB9D-AFA9BC2C42D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF300DF-5C3C-4C25-BB9D-AFA9BC2C42D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {945E5E11-21EC-477E-828C-AF729AA474FA}
+	EndGlobalSection
+EndGlobal

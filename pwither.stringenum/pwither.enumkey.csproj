@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>pwither.enumkey</Title>
+    <Version>1.0.0</Version>
+    <Authors>Witherbit</Authors>
+    <Description>RU: Легковесная библиотека для установления ключей на значения Enum, с последующим их использованием
+EN: A lightweight library for setting keys to Enum values, and then using them</Description>
+  </PropertyGroup>
+
+</Project>
